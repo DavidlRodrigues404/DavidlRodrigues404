@@ -35,17 +35,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
 </div>
-###
 <h3 align="left">Featured Project</h3>
-###
 <div align="left">
   <a href="https://github.com/DavidlRodrigues404/CashApi" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0077B5&width=435&lines=CashAPI+-+Personal+Finance+REST+API;Java+%2B+Spring+Boot+%2B+PostgreSQL+%2B+Docker;JWT+Auth+%2B+React+Frontend" alt="Typing SVG" />
   </a>
 </div>
-###
 <h3 align="left">Contacts</h3>
-###
 <div align="left">
   <a href="mailto:davidlucasrodriguesa@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -54,8 +50,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-###
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-###
